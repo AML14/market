@@ -15,3 +15,5 @@ classes
 java_pid*.hprof
 .DS_Store
 !.mvn/wrapper/maven-wrapper.jar
+target
+logs
